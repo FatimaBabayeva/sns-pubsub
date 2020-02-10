@@ -1,0 +1,13 @@
+logging:
+  level:
+    root: INFO
+
+server:
+  port: 8080
+
+aws:
+  region: "eu-west-1"
+  host: http://localhost:4575
+  credentials:
+    accessKey: ""
+    secretKey: ""
